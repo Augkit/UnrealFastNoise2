@@ -20,6 +20,9 @@ public class UnrealFastNoise2 : ModuleRules
 				"Core",
 				"Engine",
 				"Projects",
+				"SlateCore",
+				"UMG",
+				"Blutility",
 				"FastNoise2"
 			}
 		);
